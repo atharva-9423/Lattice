@@ -1,0 +1,51 @@
+:root {
+  --paper: #F3EFE6;
+  --paper-2: #EAE5D8;
+  --card: #FBF9F4;
+  --ink: #15140F;
+  --ink-2: #55524A;
+  --ink-3: #8A8578;
+  --line: #D8D2C2;
+  --accent: #FF5B1F;
+  --accent-tint: #FBE6DC;
+
+  --risk-low: #3C7A5A;
+  --risk-low-bg: #E4EDE7;
+  --risk-low-text: #27543D;
+
+  --risk-watch: #C8963E;
+  --risk-watch-bg: #F5EFE1;
+  --risk-watch-text: #86611E;
+
+  --risk-high: #E0662B;
+  --risk-high-bg: #F8E8DF;
+  --risk-high-text: #9C4014;
+
+  --risk-critical: #B3261E;
+  --risk-critical-bg: #F3E2DF;
+  --risk-critical-text: #7F1812;
+
+  --unit-ab: #C8963E;
+  --unit-ab-bg: #F5EFE1;
+  --unit-ab-text: #805C1B;
+
+  --unit-acb: #2F7F79;
+  --unit-acb-bg: #E2EEEC;
+  --unit-acb-text: #1D5753;
+
+  --unit-sgc: #7A3E6B;
+  --unit-sgc-bg: #EDE4EA;
+  --unit-sgc-text: #56284B;
+
+  --unit-vc: #3E5C8A;
+  --unit-vc-bg: #E4E9F0;
+  --unit-vc-text: #273D5E;
+
+  --font-display: 'Bricolage Grotesque', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-body: 'Instrument Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  --radius-card: 16px;
+  --radius-input: 12px;
+  --radius-pill: 9999px;
+}
