@@ -1,0 +1,6 @@
+{
+  "name": "Lattice — AICTE Complaint Intelligence",
+  "description": "Integrated dashboard for monitoring, cross-cell case linking, and institution risk intelligence across AICTE bureaus and cells.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
